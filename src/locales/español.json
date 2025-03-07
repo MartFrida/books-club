@@ -1,0 +1,63 @@
+{
+  "welcome": "¡Bienvenido a nuestro club!",
+  "description": "Únete a nosotros y forma parte de la comunidad.",
+  "menu": {
+    "home": "Inicio",
+    "about": "Acerca de nosotros",
+    "contact": "Contacto"
+  },
+  "form": {
+    "email": "Correo electrónico",
+    "placeholder": "Introduce tu correo electrónico",
+    "submit": "Enviar"
+  },
+  "hero": {
+    "welcome": "Bienvenido a ",
+    "introduse": "Únete a una comunidad de personas con ideas afines que aman socializar, establecer contactos y crear recuerdos.",
+    "become": "Registrarse"
+  },
+  "contacts": {
+    "location": "Nuestra ubicación",
+    "title": "Contáctanos",
+    "description": "¡Estamos en pleno centro de la ciudad! Encuéntranos en el mapa de abajo.",
+    "open": "Abierto ahora todos los días de 10:00 a.m. a 10:00 p.m.",
+    "reach": "Contáctanos para consultas sobre membresías, detalles de eventos o preguntas generales.",
+    "hours-title": "Horario de apertura",
+    "week": {
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado",
+      "sunday": "Domingo"
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "description": "Aquí tienes algunas preguntas comunes sobre nuestro club social.",
+    "open": "Abierto ahora todos los días de 10:00 a.m. a 10:00 p.m.",
+    "first-title": "¿Quién puede unirse al club?",
+    "first-description": "Nuestro club está abierto a adultos (mayores de 18 o 21 años, según las leyes locales) que aprecian los productos de arte de alta calidad y las reuniones sociales. Damos la bienvenida tanto a cocineros casuales como a entusiastas.",
+    "second-title": "¿Dónde y cuándo se reúnen?",
+    "second-description": "Organizamos reuniones regulares en salones designados y lugares privados. Los eventos varían desde reuniones casuales semanales hasta sesiones especiales de degustación. Consulta nuestro calendario de eventos para conocer las próximas fechas.",
+    "third-title": "¿Se permiten no cocineros?",
+    "third-description": "¡Por supuesto! Damos la bienvenida a cualquier persona interesada en la cultura y los aspectos sociales. Muchos de nuestros eventos se centran en la historia, la artesanía y la comunidad.",
+    "forth-title": "¿Qué tipo de eventos organizan?",
+    "forth-description": "Nuestro club organiza degustaciones de imágenes y libros, reuniones sociales, charlas de expertos y noches temáticas. También colaboramos con marcas y salones para ofrecer experiencias exclusivas a nuestros miembros."
+  },
+  "footer": "Club privado solo para miembros. 2025 Books Palace | Todos los derechos reservados",
+  "about": {
+    "title": "Books Palace Barcelona",
+    "introduse": "Books Palace Barcelona es un club social exclusivo solo para miembros, diseñado para aquellos que aprecian una experiencia artística de alta calidad en un ambiente cómodo y elegante.",
+    "description": "Idealmente situado cerca de la Plaza Cataluña y el Barrio Born, en el corazón de Barcelona, nuestro club ofrece un espacio exclusivo y acogedor para que los miembros se relajen, se conecten y disfruten de una selección de productos de primera calidad.",
+    "why": "¿Por qué unirse?",
+    "list": {
+      "first": "Salón moderno y acogedor con cómodos asientos",
+      "second": "Una comunidad amigable y con ideas afines",
+      "third": "Eventos exclusivos: degustaciones, reuniones sociales, entretenimiento en vivo",
+      "forth": "El escenario perfecto para relajarse y conectar"
+    },
+    "join": "¡Únete a nosotros y experimenta lo mejor que la escena social artística de Barcelona tiene para ofrecer!"
+  }
+}
